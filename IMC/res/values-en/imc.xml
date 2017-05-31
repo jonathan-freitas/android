@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="peso_ideal">For its time, the ideal weight is between:\n %1$.2f kg e %2$.2f kg</string>
+
+    <string name="abaixo_peso">Condition: Underweight</string>
+    <string name="peso_normal">Condition: Normal weight</string>
+    <string name="acima_peso">Condition: Marginally overweight</string>
+    <string name="acima_peso_ideal">Condition: Above the ideal weight</string>
+    <string name="obeso">Condition: Overweight Person</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_txtAltura">Dice su altura en cm</string>
+    <string name="hint_txtPeso">Ingrese su peso en kilogramos</string>
+</resources>

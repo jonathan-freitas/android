@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="labelAltura">Altura (cm)</string>
+    <string name="labelPeso">Peso (Kg)</string>
+    <string name="label_rd_mulher">Mulher</string>
+    <string name="label_rd_homem">Homem</string>
+    <string name="label_btnCalcular">Calcular</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="peso_ideal">Para su tiempo, el peso ideal es entre:\n %1$.2f kg e %2$.2f kg</string>
+
+    <string name="abaixo_peso">Condición: Bajo peso</string>
+    <string name="peso_normal">Condição: Peso normal</string>
+    <string name="acima_peso">Condición de: Peso normal</string>
+    <string name="acima_peso_ideal">Condición: por encima del peso ideal</string>
+    <string name="obeso">Condición: persona con sobrepeso</string>
+
+</resources>
