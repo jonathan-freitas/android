@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">North Wind Traders</string>
+    <string name="categoryId">Category ID</string>
+    <string name="categoryName">Category Name</string>
+    <string name="categoryDescription">Description of Category</string>
+    <string name="create">Create</string>
+</resources>
